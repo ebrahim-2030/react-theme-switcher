@@ -1,9 +1,9 @@
+import ThemeSwitcher from "./components/ThemeSwitcher";
+
 function App() {
   return (
     <div>
-      <h1 className="text-3xl font-bold text-center text-blue-500">
-        Hello World!
-      </h1>
+      <h1>Hellow World!</h1>
     </div>
   );
 }
