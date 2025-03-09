@@ -2,6 +2,14 @@
 
 This React app provides a dark mode toggle feature, allowing users to switch between light and dark themes. The user's theme preference is stored in `localStorage` so that it persists across sessions. The app also respects the system-wide dark mode preference if no user preference is set.
 
+## Live Demo 🚀
+
+You can try the app live here:
+
+🔗 [Live Demo](https://react-theme-switcher-phi.vercel.app/)
+
+Explore the app's features and test the dark mode toggle in action!
+
 ## Features ✨
 - **Dark Mode Toggle**: Switch between light and dark themes. 🌙 ↔️ 🌞
 - **Persistence**: User's theme preference is saved in `localStorage` 🔒.
